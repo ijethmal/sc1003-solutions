@@ -1,7 +1,7 @@
 /*Write a C program that reads and searches character strings. In the program, it
 contains the function findTarget() that searches whether a target name string has been
 stored in the array of strings.*/
-//STATUS:
+//STATUS: PASSED on APAS
 
 #include <stdio.h>
 #include <string.h>

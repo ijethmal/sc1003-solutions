@@ -2,7 +2,7 @@
 The first version sweepSpace1() will use array notation for processing the string, while the
 other version sweepSpace2() will use pointer notation. The function prototypes are given
 below:*/
-//STATUS: 
+//STATUS: PASSED on APAS
 
 #include <stdio.h>
 #include <string.h>
